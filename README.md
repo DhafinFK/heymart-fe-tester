@@ -1,3 +1,1 @@
-Frontend untuk backend api:
-
-[okkapi](https://github.com/DhafinFK/okkapi)
+Frontend tester untuk heymart bakcend.

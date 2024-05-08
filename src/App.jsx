@@ -11,7 +11,7 @@ function App() {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <a href="#" className="text-lg font-semibold">
-            OKK-POSTMAN
+            HEYMART-API-TESTER
           </a>
           {/* Add more navbar items here if needed */}
         </div>

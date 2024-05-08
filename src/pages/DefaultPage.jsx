@@ -9,7 +9,7 @@ import Panel from "../components/Panel";
 
 function DefaultPage() {
 
-    const baseUrl = "http://localhost:8000/";
+    const baseUrl = "http://localhost:8080/";
 
     const options = [
         { label: 'GET', value: 'get'},
